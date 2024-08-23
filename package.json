@@ -25,12 +25,13 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
-  "dependencies": {
+  "peerDependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "tailwindcss": "^3.4.10"
   },
   "devDependencies": {
+    "clsx": "^2.1.1",
     "@eslint/js": "^9.9.0",
     "@types/node": "^22.5.0",
     "@types/react": "^18.3.3",

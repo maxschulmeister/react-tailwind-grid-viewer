@@ -1,2 +1,3 @@
 "use client";
-export { GridViewer } from "./GridViewer";
+import GridViewer from "./GridViewer";
+export default GridViewer;
