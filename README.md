@@ -1,6 +1,6 @@
-# GridViewer
+# react-tailwind-grid-viewer
 
-**react-tailwind-grid-viewer** is a React component that provides a visual overlay for displaying and debugging grid layouts in your application, defined by tailwind classes.
+A React component that provides a visual overlay for displaying and debugging grid layouts in your application, defined by tailwind classes.
 
 ## Features
 
@@ -72,7 +72,7 @@ const customGrid = [
 | `container`        | `boolean`      | `true`            | Whether to apply the `container` class to the grid wrapper.                                                                   |
 | `visibleByDefault` | `boolean`      | `false`           | Whether the grid overlay should be visible by default.                                                                        |
 
-\*Default grid configuration:
+### Default grid configuration:
 
 ```ts
 [
