@@ -1,7 +1,7 @@
 {
   "name": "react-tailwind-grid-viewer",
   "description": "A React component for viewing a grid defined with tailwind css",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "main": "dist/react-tailwind-grid-viewer.umd.cjs",
   "module": "dist/react-tailwind-grid-viewer.js",
