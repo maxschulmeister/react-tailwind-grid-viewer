@@ -1,6 +1,6 @@
 {
   "name": "react-tailwind-grid-viewer",
-  "description": "A React component for viewing a grid defined with tailwind css",
+  "description": "A React component that provides a visual overlay for displaying and debugging grid layouts in your application, defined by tailwind classes.",
   "version": "1.0.1",
   "type": "module",
   "main": "dist/react-tailwind-grid-viewer.umd.cjs",
@@ -15,6 +15,23 @@
   },
   "files": [
     "/dist"
+  ],
+  "keywords": [
+    "react",
+    "tailwind",
+    "grid",
+    "layout",
+    "debug",
+    "overlay",
+    "visualization",
+    "responsive",
+    "breakpoints",
+    "columns",
+    "development-tool",
+    "ui",
+    "css",
+    "web-development",
+    "frontend"
   ],
   "publishConfig": {
     "access": "public"
